@@ -8,15 +8,19 @@ title: Kickoff Assignment
 
 Welcome to the Visualization & Data Processing course! This kickoff assignment will help you set up your development environment, familiarize yourself with the course workflow, and complete your first hands-on tasks.
 
+> **📽️ Quick Reference:** See Lecture 1 Slides (01-fundamentals-and-tools-marp.html) for a condensed overview of today's material.
+
 ## Learning Objectives
 
 By completing this assignment, you will:
 
 - Set up a complete development environment for the course
-- Practice Git and GitHub workflows
+- Practice Git and GitHub workflows (as shown in the lecture slides)
 - Create your first Markdown documents
 - Understand the course repository structure
 - Submit your first Pull Request
+
+> **💡 Pro Tip:** Follow along with the live demo from today's lecture!
 
 ## Prerequisites
 
@@ -113,14 +117,16 @@ Add the SSH key to GitHub:
 
 Install these essential extensions:
 
-```
-# Required extensions
-- GitLens
-- Markdown All in One
-- Marp for VS Code
-- Python
-- GitHub Pull Requests and Issues
-```
+**Required Extensions:**
+- **C/C++** (Microsoft)
+- **C/C++ Themes** (Microsoft) 
+- **Git Graph** (mhutchie)
+- **GitHub Pull Requests and Issues** (GitHub)
+- **Marp for VS Code**
+- **Python** (Microsoft)
+- **Python Debugger** (Microsoft)
+- **Python Environments** (Microsoft)
+- **Pylance** (Microsoft)
 
 ## Part 2: Repository Setup
 
@@ -334,6 +340,25 @@ git commit -m "Add student introduction and update README
 2. Use `Ctrl+Shift+P` and search for "Marp: Show preview"
 3. Verify your slides render correctly
 4. Make any necessary adjustments
+
+### Task 6: Export to HTML (Optional)
+
+To create a standalone HTML version of your slides:
+
+**Method 1: VS Code Command**
+1. Open your `.md` slide file
+2. `Ctrl+Shift+P` → "Marp: Export slide deck"
+3. Choose "HTML" format
+4. Save as `[your-lastname]-introduction.html`
+
+**Method 2: Command Line (Advanced)**
+```bash
+# Install Marp CLI (one-time setup)
+npm install -g @marp-team/marp-cli
+
+# Export to HTML
+marp slides/students/[your-lastname]-introduction.md --html --output slides/students/[your-lastname]-introduction.html
+```
 
 ## Part 4: Submission
 
