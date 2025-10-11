@@ -1,7 +1,7 @@
 ---
 marp: true
 paginate: true
-footer: "VIS3VO · Student Introduction · [Your Name]"
+footer: "VIS3VO · Student Introduction · Auschev Ruslan"
 ---
 
 # Student Introduction
@@ -24,7 +24,7 @@ FH OÖ Wels
 
 ### Programming
 - **Comfortable with:** not yet but i hope it changes after this cours
-- **Learning:** you wont believe but i am learning FEM such a beautiful subject
+- **Learning:** i am learning for different exams
 
 ### Engineering Tools
 - all tools from bachelor and master
@@ -36,21 +36,20 @@ FH OÖ Wels
 ### What I want to learn:
 - learn python
 - learn tools and methods to visualize data
-- get grade
 
 ### Data I work with:
-- Describe your data interests
+- i am interested in analysing data with different ways/methodes.
 
 ---
 
 ## Questions & Goals
 
 ### Questions:
-- Question about course content
-- Question about tools/methods
+- What are we going to learn?
+- Which tools/methods are we going to use?
 
 ### Goals:
-- Specific learning goal
-- Project aspiration
+- I want to learn everything that is necessary to pass the exam
+- It would be nice to be able to writte down my own program code 
 
 Thank you! 🚀

@@ -38,8 +38,6 @@ Describe a type of engineering data you work with or are interested in analyzing
 ## Questions
 
 List any questions you have about:
-- The course content
-- Programming concepts
-- Data visualization techniques
-- Tools we'll be using
+- What are we going to learn?
+- Which tools/methods are we going to use?
 
