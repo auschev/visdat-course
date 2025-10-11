@@ -1,4 +1,4 @@
-# Introduction - [Auschev Ruslan]
+# Introduction - Auschev Ruslan
 
 ## About Me
 
@@ -12,9 +12,9 @@ cnc technicians in series production of car parts. At the same time I did Berufs
 ## Technical Experience
 
 ### Programming Languages
-- **Experienced:** [Unfortunately, I don't know any programming language ​​well]
-- **Basic Knowledge:** [C++, Python]
-- **Want to Learn:** [C++, Python]
+- **Experienced:** Unfortunately, I don't know any programming language ​​well
+- **Basic Knowledge:** C++, Python
+- **Want to Learn:** C++, Python
 
 ### Tools and Technologies
 List tools you've used:
@@ -25,9 +25,9 @@ List tools you've used:
 ## Course Goals
 
 What do you want to achieve in this course?
-1. [learn Python]
-2. [learn visualize data]
-3. [receive a grade]
+1. learn Python
+2. learn visualize data
+3. receive a grade
 
 ## Sample Data Interest
 
